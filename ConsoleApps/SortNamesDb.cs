@@ -11,13 +11,13 @@ namespace Nuadum
         void ISortNames.RandomSort(string fileOne, string fileTwo)
         {
             //TODO
-            //throw new NotImplementedException(
+            throw new NotImplementedException(
         }
 
         void ISortNames.Write(string fileOne)
         {
             //TODO
-            //throw new NotImplementedException();
+            throw new NotImplementedException();
         }
     }
 }
